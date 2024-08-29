@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wievatm.github.io/sitemap.html.gz
+Sitemap: https://wievatm.github.io/app/sitemap.html.gz
+Sitemap: https://wievatm.github.io/assets/sitemap.html.gz
+Sitemap: https://wievatm.github.io/css/sitemap.html.gz
+Sitemap: https://wievatm.github.io/includes/sitemap.html.gz
+Sitemap: https://wievatm.github.io/item/sitemap.html.gz
+Sitemap: https://wievatm.github.io/src/sitemap.html.gz
